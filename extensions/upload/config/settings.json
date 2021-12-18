@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+        "cloud_name": "jassi212", 
+        "api_key": "954628492155291", 
+        "api_secret": "RqpCfgtX-ppvZo9ssZRD88FVMX8" 
+    }
+}
